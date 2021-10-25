@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* mahyacheraghi
-* https://Mehrangizbaghi.github.io
-* https://mobinaEsmaeilpour.github.io
+* [mahya cheraghi](https://mahyacheraghi.github.io/)
+* [mehrangiz baghi](https://Mehrangizbaghi.github.io/)
+* [mobina esmaeilpour](https://mobinaEsmaeilpour.github.io/)
 
 
 
