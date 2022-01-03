@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "saba kianoosh"
   avatar           : "/assets/images/bioo.jpg"
-  bio              : I'm a computer engineering student at iust university.
+  bio              : I'm a computer engineering student at iust.
   location         : "تهران"
   email            : saba_kianoosh@comp.iust.ac.ir
   #twitter: sauleh_e
