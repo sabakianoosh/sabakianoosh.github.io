@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* 
+* reading
+* watch movies
+* exercise
 
 
