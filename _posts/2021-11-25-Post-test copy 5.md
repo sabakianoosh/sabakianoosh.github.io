@@ -1,9 +1,8 @@
 ---
 layout: posts
-title:
+title: exam image
 ---
-- url: /assets/lab.jpg
-    image_path: /assets/lab.jpg
 
+![LABEXAM](/asset/lab.jpg)
 
 
