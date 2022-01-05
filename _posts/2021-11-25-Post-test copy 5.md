@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: exam image
+title: ![LABEXAM](/asset/lab.jpg)
 ---
 
-![LABEXAM](/asset/lab.jpg)
+
 
 
