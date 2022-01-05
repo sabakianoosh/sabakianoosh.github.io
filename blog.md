@@ -7,3 +7,4 @@ tags: [blog]
 modified: 3-10-2019
 comments: true
 ---
+![LABEXAM](/asset/lab.jpg)
